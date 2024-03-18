@@ -1,0 +1,16 @@
+{
+  "name": "heavenly-carpenter-kill-q1dpe",
+  "productName": "heavenly-carpenter-kill-q1dpe",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "wangzengzhi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "29.1.4"
+  }
+}
